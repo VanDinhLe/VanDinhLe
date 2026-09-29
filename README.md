@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Van 👋
 
-<!--
-**VanDinhLe/VanDinhLe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software and systems engineering**. I'm interested in building reliable software that interacts closely with real-world systems and hardware.
 
-Here are some ideas to get you started:
+## 🔧 What I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Embedded Systems:** Nordic SoCs, Zephyr RTOS, C/C++
+* **Hardware & Communication:** UART, Bluetooth, Wi-Fi, device-to-device communication
+* **Cloud & IoT:** AWS, Golioth, IoT device management
+* **Software:** Python, C/C++, REST APIs, Linux
+* **Systems:** Hardware/software integration, debugging, testing, system migration
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/dinhle00/)
+* 📧 Email: [Email](van.le.eng9@gmail.com )
+---
+
+> *Interested in building software that works beyond the screen.*
